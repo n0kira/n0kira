@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @n0kira
 - 👀 I’m interested in computer science and cyber-security
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning web development
 - 📫 How to reach me ... you can't ...
 - 😄 Pronouns: he/him
